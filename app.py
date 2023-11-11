@@ -8,7 +8,7 @@ from aiogram.utils.executor import start_webhook
 #pip install python-decouple
 from decouple import config
 
-API_TOKEN = config('API_TOKEN')
+API_TOKEN = config('6626336774:AAE-B9in4SXtazI3hStFNhrZ70ZoadIataQ')
 
 # webhook settings
 WEBHOOK_HOST = 'https://your.domain'
